@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akmal-x.4</title>
+
+    <style>
+        body {
+            background: #101020;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+        h1 {
+            color: #a78bfa;
+            font-size: 40px;
+        }
+
+        p {
+            color: #ccccdd;
+        }
+
+        button {
+            background: #a78bfa;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome to Akmal-x.4!</h1>
+    <p>My personal website.</p>
+    <button onclick="alert('Hello! Welcome to my website!')">
+        Click Me
+    </button>
+</body>
+</html>
